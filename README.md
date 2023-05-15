@@ -1,4 +1,3 @@
 # First Demo
- Demo practise
-docs = added new documentation to web
-docs2=added more things
+# Demo practise
+My first website made with the help of TanayBhaiya hes amazing! did it with the help of YT.
