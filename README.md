@@ -7,4 +7,3 @@ For Now i Know:
 1. JS
 2. Node.JS
 3. VS code
-4. <3da kuch ni aata but likhne me kya jata :>
