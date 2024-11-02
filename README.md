@@ -7,5 +7,5 @@ For Now i Know:
 1. JS
 2. Node.JS
 3. VS code
-1. Chalk
-1. Repl.it
+4. Chalk
+5. Repl.it
